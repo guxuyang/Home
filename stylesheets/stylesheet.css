@@ -221,7 +221,7 @@ a {
     font-size: 1rem; } }
 
 .site-footer {
-  padding-top: 2rem;
+  padding: 2rem 20%;
   margin-top: 2rem;
   background: #333;
   color: #fff;
